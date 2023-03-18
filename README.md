@@ -4,6 +4,7 @@
 # Tech #
 @nextjs
 @reactjs
+rapidapi
 
 # use npm install #
 
